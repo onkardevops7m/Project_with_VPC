@@ -8,7 +8,7 @@ variable "availability_zone_A" {
   default = "ap-south-1a"
 }
 variable "key" {
-  default = "DevOps"
+  default = "New-DevOps"
 }
 variable "ami" {
   default = "ami-0470e33cd681b2476"
